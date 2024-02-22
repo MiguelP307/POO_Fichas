@@ -5,7 +5,7 @@ import java.time.DateTimeException;
 
 import static java.lang.System.out;;
 
-public class Main {
+public class Ex1 {
 
     public static String calculateWeekDay(LocalDate date){
 
